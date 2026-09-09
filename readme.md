@@ -1,44 +1,66 @@
-# Mohamad Maulana Firdaus Ramadhan
+# Hi, I'm Maulana
 
-Welcome to my GitHub! I'm an aspiring data scientist, currently studying Information Systems and Technology at Bandung Institute of Technology. I'm passionate about using data to solve real-world problems and make impactful decisions.
+**AI Software Engineer | AI/ML Systems | LLMs, RAG & Agents**
 
-## 📊 Projects
-- **Natural Language Processing for Sentiment Analysis Using Bidirectional GRU**: Analyzed sentiment in Indonesian language texts from Twitter.
-- **Automated Traffic Monitoring Using YOLOv8**: Developed a system for detecting road accidents.
-- **Time Series Forecasting with XGBoost**: Predicted average vehicle speed to enhance traffic management.
-- **AirBnB Data Analysis in Seattle (2016)**: Analyzed the AirBnB market using Tableau.
-- **Customer Segmentation and Churn Prediction**: Enhanced customer retention strategies in the telecommunications industry.
-- **Quantitiy Prediction And Customer Segmentation**: Implemented a model for quantity prediction using regression techniques and segmented customers into distinct clusters using k-means clustering.
-- **UTBK Score Analysis**: Analyzed the distribution of UTBK scores to enter STEI-K ITB using python pandas and excel.
-- **Predicting Credit Card Approvals**: Built an automatic credit card approval predictor using machine learning techniques.
+I'm an AI Software Engineer and Information Systems & Technology graduate from Institut Teknologi Bandung (ITB), focused on building AI systems that work reliably in production.
 
-## 🛠 Skills
-- **Languages**: Python, C, C++
-- **Tools & Technologies**: Tableau, Pandas, Excel, XGBoost, YOLOv8, BiGRU. and Other
-- **Areas of Expertise**: Data Analysis, Machine Learning, NLP, Object Detection, Time Series Forecasting
+My work spans **LLMs, agentic AI, RAG, machine learning, backend systems, and cloud infrastructure**. I've worked on production AI systems serving thousands of real-world interactions, enterprise retrieval and NL-to-SQL systems, scalable AI automation, and applied ML research.
 
-## 📚 Education
-- **Bandung Institute of Technology**: Bachelor of Information System and Technology (2022-2026)
+I'm particularly interested in **AI Engineering, ML Systems, LLM Agents, Retrieval, and AI Infrastructure**.
 
-## 🏆 Achievements
-- National GEMASTIK XVI Data Mining Finalist (2023)
+## What I Work On
 
-## 🎗️ Certification
-- Data Analysis Certification From FreeCodeCamp
-- Data Scientist Professional Certificate 
-- Data Analyst Professional Certificate
-- Machine Learning with Python From FreeCodeCamp 
-- Certificate of Achievement - Kalbe Nutritionals (PT Sanghiang Perkasa) Data Scientist Project Based Internship
-- Belajar Machine Learning untuk Pemula
+- **LLM & Agentic Systems**: RAG, tool use, agent workflows, evaluation, and LLM integration
+- **AI/ML Engineering**: PyTorch, Hugging Face, Transformers, Scikit-learn
+- **Backend & APIs**: Python, REST APIs, async processing, event-driven systems
+- **Cloud & Infrastructure**: AWS, Docker, Kubernetes, CI/CD
+- **Retrieval & Data**: PostgreSQL, Redis, Qdrant, Pinecone, FAISS, Chroma
 
-## 💫 Competition Experience
-- Ristek Datathon 2023
-- Informatics Festival Unpad
-- Data Challenge Telkomsel
-- Data Slayer 1.0
+## Selected Work
 
-## 📩 Contact
-- Email: maulanafirdaus63@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mohamad-maulana-firdaus-ramadhan/
+### Production Voice AI Systems
+Built and optimized production voice AI infrastructure that has handled **23,000+ conversations and 200+ hours of active voice traffic**, working across LLM integration, backend systems, tool execution, latency optimization, and operational efficiency.
 
-Feel free to explore my repositories and connect for collaborations or discussions!
+### Enterprise RAG & Natural Language-to-SQL
+Developed retrieval and query-generation systems for enterprise data, improving query accuracy from approximately **30% to 82.7%** through semantic retrieval, structured query generation, and automated evaluation.
+
+### Edge AI for Partial Discharge Detection
+Developed an LSTM-Attention-based machine learning system for electrical defect detection and deployed local inference to edge hardware including FPGA and Raspberry Pi 5.
+
+### AI-Powered Traffic Monitoring
+Built a computer-vision system using **YOLOv8** for automated traffic monitoring and road-condition analysis, recognized as a national finalist at GEMASTIK.
+
+### Marketplace Recommendation System
+Developed a personalized recommendation system for marketplace products, winning **1st Place at Hology 7.0** among 235 teams.
+
+## Tech Stack
+
+**Languages**  
+`Python` `SQL` `C++` `Shell`
+
+**AI & Machine Learning**  
+`PyTorch` `Hugging Face` `Transformers` `LangChain` `LangGraph` `Scikit-learn` `OpenCV`
+
+**LLM & Retrieval**  
+`RAG` `AI Agents` `LoRA` `Quantization` `FAISS` `Qdrant` `Pinecone` `Chroma`
+
+**Backend & Infrastructure**  
+`REST APIs` `PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS` `CI/CD`
+
+## Highlights
+
+- AI Software Engineer working on production AI systems
+- AI Research Assistant at ITB's AI Center
+- **1st Place**, Hology 7.0 Data Mining Competition
+- **2× National Finalist**, GEMASTIK
+- Multiple Top-10 finishes in national AI and data competitions
+
+## Education
+
+**Institut Teknologi Bandung (ITB)**  
+B.Sc. in Information Systems and Technology, 2022–2026
+
+## Connect
+
+- **LinkedIn:** [Mohamad Maulana Firdaus Ramadhan](https://www.linkedin.com/in/mohamad-maulana-firdaus-ramadhan/)
+- **Email:** maulanafirdaus63@gmail.com
