@@ -1,4 +1,4 @@
-# Hi, I'm Maulana
+# Hi, I'm Mohamad Maulana Firdaus Ramadhan
 
 **AI Software Engineer | AI/ML Systems | LLMs, RAG & Agents**
 
