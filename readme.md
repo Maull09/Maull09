@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+in+production;LLMs+%7C+Agentic+RAG+%7C+Voice+AI;Edge+AI+%7C+Computer+Vision+%7C+ML+Research;Alumni+ITB+%F0%9F%8E%93+Based+in+Jakarta+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+systems+that+work+in+production;LLMs+%7C+Agentic+RAG+%7C+Voice+AI;Edge+AI+%7C+Computer+Vision+%7C+ML+Research" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/-RAG%20Systems-1f6feb?style=flat-square" />
   <img src="https://img.shields.io/badge/-Voice%20AI-8957e5?style=flat-square" />
   <img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-ff7b00?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maull09&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
@@ -183,23 +179,6 @@ My work spans <strong>LLMs, agentic AI, RAG, machine learning, backend systems, 
 - 📚 **Curriculum Developer**, Google Developer Student Club ITB — ML curriculum for 800+ members
 - 🎤 **Guest Speaker** — *Symphony of Data*, *Data Competition Strategies*, *Intro to Data Science*
 - 📜 **Certifications** — DataCamp Data Scientist & Data Analyst Professional, freeCodeCamp (Data Analysis, ML with Python), Kalbe Nutritionals DS Internship
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Maull09&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maull09&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Maull09&theme=radical&hide_border=true" alt="streak" />
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maull09&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
 
 ---
 
