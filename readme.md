@@ -22,7 +22,7 @@
 ## 👋 About Me
 
 <p align="justify">
-I'm an <strong>AI Software Engineer</strong> and Information Systems & Technology graduate from <strong>Institut Teknologi Bandung (ITB)</strong>, focused on building AI systems that work reliably in production.
+Hi! My name is Mohamad Maulana Firdaus Ramadhan, I'm an <strong>AI Software Engineer</strong> and Information Systems & Technology graduate from <strong>Institut Teknologi Bandung (ITB)</strong>, focused on building AI systems that work reliably in production.
 </p>
 
 <p align="justify">
