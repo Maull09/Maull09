@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamad%20Maulana%20Firdaus%20R.&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamad%20Maulana%20Firdaus%20Ramadhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descSize=18&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
