@@ -1,6 +1,8 @@
 <!-- HEADER BANNER -->
+# Mohamad Maulana Firdaus Ramadhan
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamad%20Maulana%20Firdaus%20Ramadhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamad%20Maulana%20Firdaus%20Ramadhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Software%20Engineer%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Agents&descSize=18&descAlignY=58" alt="Mohamad Maulana Firdaus Ramadhan - AI Software Engineer" />
 </p>
 
 <p align="center">
@@ -188,6 +190,8 @@ My work spans <strong>LLMs, agentic AI, RAG, machine learning, backend systems, 
   <a href="https://www.linkedin.com/in/mohamad-maulana-firdaus-ramadhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maulanafirdaus63@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/Maull09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://maulanafirdaus.tech"><img src="https://img.shields.io/badge/Portfolio-maulanafirdaus.tech-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio"/>
+</a>
 </p>
 
 <p align="center">
